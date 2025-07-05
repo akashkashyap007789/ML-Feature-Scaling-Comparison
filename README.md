@@ -17,4 +17,4 @@ This project compares the performance of Logistic Regression and Decision Tree C
 2. Run the script: `python ml_feature_scaling_comparison.py`
 
 ## Author
-- [Your Name or GitHub profile link]
+- [Akash Kashyap]
